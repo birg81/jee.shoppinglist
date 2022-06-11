@@ -1,0 +1,1 @@
+<% request.getRequestDispatcher("./adminItemsJSfetch.jsp").forward(request, response); %>
